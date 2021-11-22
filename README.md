@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chan_rohit" target="blank"><img src="https://img.shields.io/twitter/follow/chan_rohit?logo=twitter&style=for-the-badge" alt="chan_rohit" /></a> </p>
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Reinforcement Learning**
 
 - 📫 How to reach me **rohitv.chandra@gmail.com**
 
